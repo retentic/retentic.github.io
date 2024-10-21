@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://retentic.github.io/retentic.txt.gz
+Sitemap: https://retentic.github.io/app/retentic.txt.gz
+Sitemap: https://retentic.github.io/assets/retentic.txt.gz
+Sitemap: https://retentic.github.io/css/retentic.txt.gz
+Sitemap: https://retentic.github.io/includes/retentic.txt.gz
+Sitemap: https://retentic.github.io/item/retentic.txt.gz
+Sitemap: https://retentic.github.io/src/retentic.txt.gz
